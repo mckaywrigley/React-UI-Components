@@ -1,0 +1,23 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    width: 418px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 110px;
+    padding: 5px 0;
+    margin-top: 5px;
+}
+
+p {
+    margin: 0;
+    margin-left: 5px;
+}
+
+i {
+    margin-left: 40px;
+}
+
+.first {
+    margin: 0;
+}
